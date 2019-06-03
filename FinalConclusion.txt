@@ -1,0 +1,15 @@
+Gave 81.2% Accuracy IN k-fold analysis without paramaeter Tuning 
+
+Logistic Regreesion with LDA - 81.2%
+		    without  - 80%
+
+SVM relatively did a good job - 80%
+
+
+Other Models not tested
+
+Dummy variable trap avoided
+
+
+
+
